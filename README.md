@@ -6,4 +6,11 @@ The system checks soil moisture every set time period and if the moisture is bel
 The system also records the moisture data in a csv file for future data analysis.
 It also stores the last 12 records in an array which can be sent to a phone for graph analysis via bluetooth to the custom app I created for it using MIT App Inventor.
 
+## Built With
+
+* [MicroPython](https://micropython.org/) - 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 #raspberry pi pico
