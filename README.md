@@ -1,5 +1,5 @@
 # SensorBox-V1.1.0
-Micropython code and on goingresearch for RP2040 based automatic plant monitoring system. This will be a dump of all my code and research and calibration files.
+Micropython code and on going research for RP2040 based automatic plant monitoring system. This will be a dump of all my code and research and calibration files.
 
 For now project is an automatic plant watering system that uses Raspberry Pi Pico as the microcontroller and is entirely written in MicroPython.
 The system checks soil moisture every set time period and if the moisture is below a certain threshhold, then it activates a relay which turns on a pump to irrigate the crops.
