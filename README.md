@@ -8,9 +8,9 @@ It also stores the last 12 records in an array which can be sent to a phone for 
 
 ## Built With
 
-* [MicroPython](https://micropython.org/) - 
+* [MicroPython](https://micropython.org/)  
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 #raspberry pi pico
